@@ -27,4 +27,4 @@ CSS
 JAVASCRIPT
 
 
-<img width="1024" alt="Screenshot 2024-07-14 at 20 10 36" src="https://github.com/user-attachments/assets/b4643a17-7d87-4723-a02f-49546374ccf0">
+<img width="1024" alt="Screenshot 2024-07-14 at 20 10 36" src="https://github.com/user-attachments/assets/422c5f33-7a20-4ad5-a2b9-1b7650d55ae4">
